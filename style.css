@@ -1,0 +1,37 @@
+
+/* h1 text style */
+.h1-text {
+
+    color:blue;
+    font-family: Verdana;
+    text-shadow: 1px 1px 2px #111111;
+    text-align: center; 
+
+}
+
+/* Aligns all <div> to be centered */
+div {
+    text-align: center;
+}
+
+/* Button style */
+.button-text {
+    
+    border: solid 1px black;
+    background-color: orange;
+    padding: 10px 30px;
+    color: black;
+    text-shadow: 1px 1px 2px #111111;
+    text-align: center;
+	font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+/* Hover effect on button */
+button:hover {
+   background-color: #111111;
+   color: orange; 
+}
