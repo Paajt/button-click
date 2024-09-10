@@ -7,6 +7,6 @@ function changeMessage() {
 
 function resetButton() {
 
-    document.getElementById("message").innerHTML = "Hello World!"
+    document.getElementById("message").innerHTML = "Hello World"
     
 }
