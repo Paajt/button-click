@@ -5,5 +5,5 @@ function changeMessage() {
 
 // function to reset h1 message
 function resetButton() {
-    document.getElementById("message").innerHTML = "Hello World"
+    document.getElementById("message").innerHTML = "Hello World";
 }
