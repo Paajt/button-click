@@ -5,7 +5,7 @@
     color:blue;
     font-family: Verdana;
     text-shadow: 1px 1px 2px #111111;
-    text-align: center; 
+    text-align: center;
 
 }
 
@@ -17,6 +17,7 @@ div {
 /* Button style = Click Me! */
 .buttonClick {
     
+    width: 15%;
     border: solid 1px black;
     background-color: green;
     padding: 10px 30px;
@@ -32,6 +33,7 @@ div {
 /* Button style = Reset! */
 .buttonReset {
     
+    width: 15%;
     border: solid 1px black;
     background-color: lightcoral;
     padding: 10px 30px;
