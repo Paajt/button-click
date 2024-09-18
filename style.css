@@ -46,6 +46,13 @@ div {
     cursor: pointer;
 
 }
+/* Rounded corners and shadows on buttons */
+
+button {
+    border-radius: 50px;
+    box-shadow: 1px 1px 3px black;
+}
+
 
 /* Hover effect on button */
 button:hover {
