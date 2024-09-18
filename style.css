@@ -17,10 +17,10 @@ div {
 /* Button style = Click Me! */
 .buttonClick {
     
-    width: 15%;
+    width: 10rem;
     border: solid 1px black;
     background-color: green;
-    padding: 10px 30px;
+    padding: 10px 20px;
     color: black;
     text-align: center;
     font-family: Arial;
@@ -33,10 +33,10 @@ div {
 /* Button style = Reset! */
 .buttonReset {
     
-    width: 15%;
+    width: 10rem;
     border: solid 1px black;
     background-color: lightcoral;
-    padding: 10px 30px;
+    padding: 10px 20px;
     margin-top: 50px;
     color: black;
     text-align: center;
